@@ -23,6 +23,9 @@ def monopoly_with_third_tier
 		:railroads => {
 			:rent_in_dollars => {
 				:key => "string"
+				:key1 => "string1"
+				:key2 => "string2"
+				:key3 => "string3"
 			}
 		}
 	}
