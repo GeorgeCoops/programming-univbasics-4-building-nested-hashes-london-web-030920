@@ -27,7 +27,6 @@ def monopoly_with_third_tier
 				:key2 => "string2",
 				:key3 => "string3"
 			}
-			:names => {}
 		}
 	}
 	monopoly
