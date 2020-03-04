@@ -1,5 +1,7 @@
 def base_hash
-  monopoly = {:railroads = {}}
+  monopoly = {
+		:railroads = {}
+	}
 	monopoly
 end
 
