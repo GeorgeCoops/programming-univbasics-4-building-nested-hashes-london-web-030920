@@ -28,7 +28,7 @@ def monopoly_with_third_tier
 				:key3 => "string3"
 			},
 			:rent_in_dollars => {
-				:key => "string",
+				:one_piece_owned => "25",
 				:key1 => "string1",
 				:key2 => "string2",
 				:key3 => "string3"
